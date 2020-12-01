@@ -1,8 +1,16 @@
 # lab-01b-markdown
 
 # Some small change.
+- **some**
 
-- some
-- other
+## Some other change ##
+- *other*
 - small
+
+### Last change ###
 - change
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
